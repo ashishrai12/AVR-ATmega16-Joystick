@@ -11,7 +11,7 @@ A professional, modular library for interfacing analog joysticks with AVR ATmega
 
 ---
 
-## ✨ Features
+## Features
 
 - **8-Direction Detection** - Accurately detects N, S, E, W, NE, NW, SE, SW, and Center positions
 - **Dead Zone Support** - Configurable center dead zone prevents jitter when joystick is at rest
@@ -22,7 +22,7 @@ A professional, modular library for interfacing analog joysticks with AVR ATmega
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Hardware Requirements](#hardware-requirements)
 - [Installation](#installation)
@@ -396,7 +396,7 @@ PROGRAMMER = usbasp   # Programmer type
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -416,13 +416,13 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - AVR-GCC and AVRDUDE communities
 - HD44780 LCD datasheet authors
@@ -430,13 +430,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
 
-**Ashish Rai**  
-GitHub: [@ashishrai12](https://github.com/ashishrai12)
-
----
-
-<p align="center">
-Made with ❤️ for embedded systems enthusiasts
-</p>
